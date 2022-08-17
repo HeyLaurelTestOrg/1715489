@@ -1569,12 +1569,12 @@ fx-runner@1.2.0:
     which "1.2.4"
     winreg "0.0.12"
 
-get-bin-path@^7.0.0:
-  version "7.0.0"
-  resolved "https://registry.yarnpkg.com/get-bin-path/-/get-bin-path-7.0.0.tgz#95b8e4c2818e6e55573e9893b30d9d711cdeed18"
-  integrity sha512-xCuZ39yKvjRRQxXpma0hlnyMVlmNOTrVGe0tHwGOKOOH0euhk9cPRrRi2k6/0rbz0eLjIA5llHYIhP7P+M35ZQ==
+get-bin-path@^7.1.0:
+  version "7.1.0"
+  resolved "https://registry.yarnpkg.com/get-bin-path/-/get-bin-path-7.1.0.tgz#a253ca474e52ffdb8f3530d3eb0dc42224390465"
+  integrity sha512-zX7JwYsclnTrqeuCGoD4m8zKfV7Qzcy/sAaSDZ+ZO5bLU589uTY81s0xIhqS6aJJQfMdSIj5wB0Y1nYd0e/p5A==
   dependencies:
-    is-plain-obj "^4.0.0"
+    is-plain-obj "^4.1.0"
     read-pkg-up "^9.1.0"
 
 get-caller-file@^2.0.5:
@@ -1995,10 +1995,10 @@ is-path-inside@^3.0.2:
   resolved "https://registry.yarnpkg.com/is-path-inside/-/is-path-inside-3.0.2.tgz#f5220fc82a3e233757291dddc9c5877f2a1f3017"
   integrity sha512-/2UGPSgmtqwo1ktx8NDHjuPwZWmHhO+gj0f93EkhLB5RgW9RZevWYYlIkS6zePc6U2WpOdQYIwHe9YC4DWEBVg==
 
-is-plain-obj@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/is-plain-obj/-/is-plain-obj-4.0.0.tgz#06c0999fd7574edf5a906ba5644ad0feb3a84d22"
-  integrity sha512-NXRbBtUdBioI73y/HmOhogw/U5msYPC9DAtGkJXeFcFWSFZw0mCUsPxk/snTuJHzNKA8kLBK4rH97RMB1BfCXw==
+is-plain-obj@^4.1.0:
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/is-plain-obj/-/is-plain-obj-4.1.0.tgz#d65025edec3657ce032fd7db63c97883eaed71f0"
+  integrity sha512-+Pgi+vMuUNkJyExiMBt5IlFoMyKnr5zhJ4Uspz58WOhBF5QoIZkFyNHIbBAtHwzVAgk5RtndVNsDRN61/mmDqg==
 
 is-plain-object@^5.0.0:
   version "5.0.0"
